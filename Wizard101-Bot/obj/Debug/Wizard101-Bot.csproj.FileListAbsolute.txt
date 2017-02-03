@@ -1,0 +1,12 @@
+C:\Users\_4zur3\Documents\Visual Studio 2015\Projects\Wizard101-Bot\Wizard101-Bot\bin\Debug\Wizard101-DanceBot-b1.exe.config
+C:\Users\_4zur3\Documents\Visual Studio 2015\Projects\Wizard101-Bot\Wizard101-Bot\bin\Debug\Wizard101-DanceBot-b1.exe
+C:\Users\_4zur3\Documents\Visual Studio 2015\Projects\Wizard101-Bot\Wizard101-Bot\bin\Debug\Wizard101-DanceBot-b1.pdb
+C:\Users\_4zur3\Documents\Visual Studio 2015\Projects\Wizard101-Bot\Wizard101-Bot\obj\Debug\Wizard101-DanceBot-b1.exe
+C:\Users\_4zur3\Documents\Visual Studio 2015\Projects\Wizard101-Bot\Wizard101-Bot\obj\Debug\Wizard101-DanceBot-b1.pdb
+C:\Users\_4zur3\Documents\Visual Studio 2015\Projects\Wizard101-Bot\Wizard101-Bot\obj\Debug\Wizard101-Bot.csprojResolveAssemblyReference.cache
+D:\Programming\C#\Wizard101-Bot\Wizard101-Bot\bin\Debug\Wizard101-DanceBot-b1.exe.config
+D:\Programming\C#\Wizard101-Bot\Wizard101-Bot\obj\Debug\Wizard101-DanceBot-b1.exe
+D:\Programming\C#\Wizard101-Bot\Wizard101-Bot\obj\Debug\Wizard101-DanceBot-b1.pdb
+D:\Programming\C#\Wizard101-Bot\Wizard101-Bot\bin\Debug\Wizard101-DanceBot-b1.exe
+D:\Programming\C#\Wizard101-Bot\Wizard101-Bot\bin\Debug\Wizard101-DanceBot-b1.pdb
+D:\Programming\C#\Wizard101-Bot\Wizard101-Bot\obj\Debug\Wizard101-Bot.csprojResolveAssemblyReference.cache
