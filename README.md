@@ -4,6 +4,9 @@ A keyboard/mouse control based Bot for Wizard101's dance minigame
 #####Disclaimer: I haven't edited this code in a very long time. Some parts are definitely broken, and there is definitely room for improvement.
 #####I will no longer maintain this project. Anyone is free to fork and continue this project. If you do, please respect the liscence.
 
+#####Disclaimer:
+        NOT RESPONCIBLE FOR ANY BANS That May Or may not be Related to using this.
+#####
 Tested on: Windows 10
 
 Required game resolution: 800x600
